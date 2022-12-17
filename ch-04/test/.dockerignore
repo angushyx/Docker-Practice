@@ -1,0 +1,3 @@
+# 用途是管理所有不需要進入建置階段的檔案
+./README.md
+./Dockerfile 
